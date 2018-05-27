@@ -1,0 +1,7 @@
+# W3C Link checker
+User-agent: W3C-checklink
+Disallow:
+
+# exclude some access-controlled areas
+User-agent: *
+Disallow: /
